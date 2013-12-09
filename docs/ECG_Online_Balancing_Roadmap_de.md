@@ -23,12 +23,20 @@ Die Online-Bilanzierung macht [den gesamten Prozess](http://creately.com/diagram
 * Roadmap aktualisieren.
 * Roadmap ausführen und wenn nötig den Prozess iterieren.
 
+Der nächste Schritt sollte sein, dass wir eine Bestandsaufnahme machen, welche Entwicklungsschritte noch notwendig sind, damit interessierte Unternehmen das Tool für die Erstellung einer Gemeinwohlbilanz gemäß Matrix 4.1.probehalber nutzen können. Dies umfasst:
+- Die Erstellung eines Gemeinwohlberichts
+- Die Erstellung einer Gemeinwohlbilanz
+Gemeinwohlbericht und -bilanz sollten inhaltlich mit den Templates (Excel / Word bzw. OpenOffice), die auf der www.gemeinwohloekonomie für die Matrix 4.1. hinterlegt sind.
+Wenn wir wissen, welche Schritte noch notwendig sind, und wie hoch der Aufwand ist, können wir genauer priorisieren, welche Schritte in welcher Reihenfolge getan werden müssen und für welche Schritte wir ein konkretes Microfunding starten. 
+ich könnte mir vorstellen, dass das aktuelle Tool als Schwerpunkt die Bilanz hat und die Integration des Berichts noch einige Arbeit bedeutet. Für einen ersten Test sollte daher überlegt werden, ob die zu testenden Unternehmen nur die Bilanz mit dem Tool erstellen und den Bericht erstmal über Word / OpenOffice schreiben. 
+Weterhin sollten wir im Hinterkopf behalten, dass es eine Reihe von wichtigen Personen innerhalb der weltweiten GWÖ-Bewegung gibt, die einem Online-Tool skeptisch gegenüber stehen. Für diese Personen wäre es sehr wichtig zu präentieren, dass das Tool sowohl On- als auch Offline genutzt werden kann.
 # Finanzierung
 
 Wenn die WebApp professionell entwickelt werden soll, braucht man Finanzierung. Hier sind die Vorschläge für Finanzierung
 
 * [Crowdfunding](Crowdfunding.md)
 * Förderprojekte? In Zusammenarbeit mit GWÖ-Berlin und andere?
+Jan-Peter wird innerhalb der GWÖ-Berlin dafür werben, dass Unternehmen das Tool testen und evt. kleine genau beschriebene Feature-Erweiterungen finanziell unterstützen. Wir würden hier aber eher in der Größenordnung von einigen hundert EUR liegen, die eingesammelt werden können. Je besser die Ergebnisse bei den ersten Tests laufen, desto besser können wir innerhalb der Gesamtbewegung Werbung für das Tool machen und evt. auch an andere Fördertöpfe für die GWÖ-IT kommen...
 * Weitere Ideen?
 
 
